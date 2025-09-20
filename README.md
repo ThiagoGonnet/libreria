@@ -2,7 +2,7 @@
 
 **Integrantes:**  
 - Thiago Gonnet (thiagogonnet2710@gmail.com)  
-- Tomás  
+- Tomás Lombardozzo (tomaslombardozzo44@gmail.com)  
 
 **Temática del TPE:**  
 Proyecto de Librería con autores y libros.
